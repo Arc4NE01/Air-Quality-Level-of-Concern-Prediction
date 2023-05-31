@@ -1,0 +1,5 @@
+# Air-Quality-Level-of-Concern-Prediction
+Embarking on my first machine learning project as part of my CSE422 Artificial Intelligence course, I set out to predict the Air Quality Level of Concern. The model revolved around atmospheric elements including PM2.5 and PM10 levels, SO2, NO2, and NO - key influencers of air quality.
+To achieve this, I employed established machine learning algorithms, namely Support Vector Machines (SVM), Random Forests, Logistic Regression, Decision Trees, and Naive Bayes. Each was assessed for its predictive ability, yielding insights into their unique strengths.
+The journey, from data preprocessing, model training, to performance evaluation, was both challenging and enlightening. It enriched my understanding of machine learning's power and intricacies, sparking a passion for the field.
+Beyond an academic pursuit, this project marked my entry into the vast world of artificial intelligence. The skills acquired and insights gained promise to shape my future endeavours in this dynamic and rapidly evolving field.
